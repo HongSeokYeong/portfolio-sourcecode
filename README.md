@@ -1,6 +1,6 @@
 # portfolio-sourcecode
 
-작업물 동영상 링크 입니다.
+직전 회사 클라우드 게이트에서 참여했던 프로젝트 입니다.
 
 MagicRoom : https://www.youtube.com/watch?v=IxH2cgehUVI&list=UULtpIkRIuCdMEadNH3SdXvA&index=4  
 FollowMe1 : https://www.youtube.com/watch?v=iXMz3CSNxqw&list=UULtpIkRIuCdMEadNH3SdXvA&index=6  
